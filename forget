@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Forgot password</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+<div class="container">
+    <div class="form-box">
+        <h2>Forgot Password</h2>
+        <form>
+            <input type="email" placeholder="Enter your Email" required>
+            <button type="submit">Reset Password</button>
+        </form>
+
+        <p class="switch">
+            Remembered your password? <a href="login.html">Login</a>
+    </div>
+</div>
+    
+</body>
+</html>
